@@ -1,4 +1,4 @@
-# vuex
+# Vuejs With Vuex
 
 ## Project setup
 ```
